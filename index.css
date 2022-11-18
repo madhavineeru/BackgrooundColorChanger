@@ -1,0 +1,22 @@
+.app-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30%;
+}
+.input-color{
+    height: 30px;
+    width: 70px;
+    border: none;
+    margin-bottom: 20px;
+}
+.btn{
+    height: 40px;
+    width: 120px;
+    border: 1px solid hsl(0, 0%, 100%)0%, 100%);
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 10px;
+
+}
